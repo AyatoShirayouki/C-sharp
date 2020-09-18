@@ -1,0 +1,11 @@
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\bin\Debug\koli1.mdb
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\bin\Debug\bd1.exe.config
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\bin\Debug\bd1.exe
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\bin\Debug\bd1.pdb
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\obj\Debug\bd1.csprojAssemblyReference.cache
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\obj\Debug\bd1.Properties.Resources.resources
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\obj\Debug\bd1.csproj.GenerateResource.cache
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\obj\Debug\bd1.csproj.CoreCompileInputs.cache
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\obj\Debug\bd1.exe
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\obj\Debug\bd1.pdb
+C:\Users\Ayato Shirayuki\source\repos\bd1\bd1\obj\Debug\bd1.Form1.resources

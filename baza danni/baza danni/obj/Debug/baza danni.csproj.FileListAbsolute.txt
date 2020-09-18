@@ -1,0 +1,10 @@
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\bin\Debug\baza danni.exe.config
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\bin\Debug\baza danni.exe
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\bin\Debug\baza danni.pdb
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\obj\Debug\baza danni.csprojAssemblyReference.cache
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\obj\Debug\baza_danni.Form1.resources
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\obj\Debug\baza_danni.Properties.Resources.resources
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\obj\Debug\baza danni.csproj.GenerateResource.cache
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\obj\Debug\baza danni.csproj.CoreCompileInputs.cache
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\obj\Debug\baza danni.exe
+C:\Users\Ayato Shirayuki\source\repos\baza danni\baza danni\obj\Debug\baza danni.pdb
