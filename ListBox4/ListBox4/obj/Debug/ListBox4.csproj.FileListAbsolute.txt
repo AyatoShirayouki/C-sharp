@@ -1,0 +1,10 @@
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\bin\Debug\ListBox4.exe.config
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\bin\Debug\ListBox4.exe
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\bin\Debug\ListBox4.pdb
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\obj\Debug\ListBox4.csprojAssemblyReference.cache
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\obj\Debug\ListBox4.Form1.resources
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\obj\Debug\ListBox4.Properties.Resources.resources
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\obj\Debug\ListBox4.csproj.GenerateResource.cache
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\obj\Debug\ListBox4.csproj.CoreCompileInputs.cache
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\obj\Debug\ListBox4.exe
+C:\Users\Ayato Shirayuki\source\repos\ListBox4\ListBox4\obj\Debug\ListBox4.pdb

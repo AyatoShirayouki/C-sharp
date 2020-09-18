@@ -1,0 +1,10 @@
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\bin\Debug\prostotii1.exe.config
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\bin\Debug\prostotii1.exe
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\bin\Debug\prostotii1.pdb
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\obj\Debug\prostotii1.csprojAssemblyReference.cache
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\obj\Debug\prostotii1.Form1.resources
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\obj\Debug\prostotii1.Properties.Resources.resources
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\obj\Debug\prostotii1.csproj.GenerateResource.cache
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\obj\Debug\prostotii1.csproj.CoreCompileInputs.cache
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\obj\Debug\prostotii1.exe
+C:\Users\Ayato Shirayuki\source\repos\prostotii1\prostotii1\obj\Debug\prostotii1.pdb
