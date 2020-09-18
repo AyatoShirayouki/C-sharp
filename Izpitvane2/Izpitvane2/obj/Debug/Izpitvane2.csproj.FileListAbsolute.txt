@@ -1,0 +1,10 @@
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\bin\Debug\Izpitvane2.exe.config
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\bin\Debug\Izpitvane2.exe
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\bin\Debug\Izpitvane2.pdb
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\obj\Debug\Izpitvane2.csprojAssemblyReference.cache
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\obj\Debug\Izpitvane2.Form1.resources
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\obj\Debug\Izpitvane2.Properties.Resources.resources
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\obj\Debug\Izpitvane2.csproj.GenerateResource.cache
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\obj\Debug\Izpitvane2.csproj.CoreCompileInputs.cache
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\obj\Debug\Izpitvane2.exe
+C:\Users\Ayato Shirayuki\source\repos\Izpitvane2\Izpitvane2\obj\Debug\Izpitvane2.pdb

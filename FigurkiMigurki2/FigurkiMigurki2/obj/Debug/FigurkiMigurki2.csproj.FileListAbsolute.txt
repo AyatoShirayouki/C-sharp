@@ -1,0 +1,10 @@
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\bin\Debug\FigurkiMigurki2.exe.config
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\bin\Debug\FigurkiMigurki2.exe
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\bin\Debug\FigurkiMigurki2.pdb
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\obj\Debug\FigurkiMigurki2.csprojAssemblyReference.cache
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\obj\Debug\FigurkiMigurki2.Form1.resources
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\obj\Debug\FigurkiMigurki2.Properties.Resources.resources
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\obj\Debug\FigurkiMigurki2.csproj.GenerateResource.cache
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\obj\Debug\FigurkiMigurki2.csproj.CoreCompileInputs.cache
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\obj\Debug\FigurkiMigurki2.exe
+C:\Users\Ayato Shirayuki\source\repos\FigurkiMigurki2\FigurkiMigurki2\obj\Debug\FigurkiMigurki2.pdb

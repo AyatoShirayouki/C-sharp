@@ -1,0 +1,10 @@
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\bin\Debug\listbox2.exe.config
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\bin\Debug\listbox2.exe
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\bin\Debug\listbox2.pdb
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\obj\Debug\listbox2.csprojAssemblyReference.cache
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\obj\Debug\listbox2.Form1.resources
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\obj\Debug\listbox2.Properties.Resources.resources
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\obj\Debug\listbox2.csproj.GenerateResource.cache
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\obj\Debug\listbox2.csproj.CoreCompileInputs.cache
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\obj\Debug\listbox2.exe
+C:\Users\Ayato Shirayuki\source\repos\listbox2\listbox2\obj\Debug\listbox2.pdb
